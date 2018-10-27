@@ -10,12 +10,12 @@
   }
 
   .page-footer{
-    background-color: blue;
+    background-color: #fafafa;
   }
 
 
   .nav-class{
-    background-color: blue;
+    background-color: #fafafa;
   }
 
   .nav-wrapper .img{
@@ -261,8 +261,10 @@
     position:absolute;
 }
 
-.venue-img{
-  height:30px;
+.lilly-img{
+  padding-top: 20px;
+  height:100px;
+  width: auto;
 }
 
 .email-img{
