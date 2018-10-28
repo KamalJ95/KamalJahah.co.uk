@@ -243,7 +243,7 @@
 }
 
 .parallax-container {
-     height:400px;
+     height:350px;
    }
 
 
@@ -263,9 +263,46 @@
 
 .lilly-img{
   padding-top: 20px;
-  height:100px;
-  width: auto;
+  height:auto;
+  max-height: 100px;
+  max-width: 100%;
+
 }
+
+.arsenal-img{
+  padding-top: 20px;
+  height:auto;
+  max-height: 85px;
+  max-width: 100%;
+
+}
+.first-img{
+  padding-top: 20px;
+  text-align: center;
+  height:auto;
+  max-height: 100px;
+  max-width: 100%;
+
+}
+
+.in-line-img{
+  max-height: 30px;
+  height: auto;
+  max-width: 100%;
+
+
+}
+
+.me-img{
+  padding-top: 20px;
+  text-align: center;
+  height:auto;
+  max-height: 250px;
+  max-width: 100%;
+  padding-bottom: 10px;
+
+}
+
 
 .email-img{
   height:20px;
@@ -274,4 +311,9 @@
 .room-info-text{
   font: Sans;
   color: black;
+}
+
+.parallax-img{
+  height:auto;
+  width: auto;
 }
